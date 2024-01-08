@@ -1,0 +1,9 @@
+*
+!README.md
+!Players
+!Players/*
+!Worlds
+!Worlds/*
+!.gitignore
+!push.sh
+
